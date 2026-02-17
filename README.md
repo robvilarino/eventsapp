@@ -1,2 +1,2 @@
-# eventsapp
-Kubernetes Training
+# eventsappstart
+This is a simple events app
